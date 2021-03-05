@@ -1,0 +1,15 @@
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\bin\Debug\actual.Project.charlie.exe.config
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\bin\Debug\actual.Project.charlie.exe
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\bin\Debug\actual.Project.charlie.pdb
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.csprojAssemblyReference.cache
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.Form1.resources
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.Form2.resources
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.Properties.Resources.resources
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.csproj.GenerateResource.cache
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.csproj.CoreCompileInputs.cache
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.exe
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.pdb
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\bin\Debug\actual.Project.charlie.exe.manifest
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\bin\Debug\actual.Project.charlie.application
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.exe.manifest
+C:\Users\anika\source\repos\actual.Project.charlie\actual.Project.charlie\obj\Debug\actual.Project.charlie.application
